@@ -1,0 +1,14 @@
+{
+	"page": 5,
+	"title": "The Words Get Lost",
+	"body": "Why people don't understand is terrifying. They can't see, let alone comprehend, the stories and metaphors surrounding vampirism. Most think that Vampires are stereotypical bad guys with thick accents that hang around in coffins and suck blood. They think that all vampires are weak to a cross, that they're all the same.
+
+They're not. They're not all the same. Noone is the same. Sure, some Vampires may desperatly want to kill, but other might not. Maybe some do sleep in coffins, and maybe some sleep in beds. Not everyone is the same.",
+	"sound": "TelevisionBodies",
+	"commands": {
+	"pickup": [
+	"effect @a 5 9999"
+	]
+	},
+	"autoplay": true
+}

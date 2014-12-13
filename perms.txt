@@ -1,0 +1,57 @@
+Permission categories and full licenses for mods marked spreadsheet are available here: http://1drv.ms/1rsQNOJ
+For any problems, please contact Watchful11 on the FTB forums.
+This is a public pack
+
+(Open:Spreadsheet) Forge/FML by LexManos, cpw can be found at http://www.minecraftforge.net/.
+(Open:Spreadsheet) Applied Energistics by AlgorithX2 can be found at http://ae-mod.info/.
+(Open:Spreadsheet) ArmorStatusHUD by bspkrs can be found at http://www.minecraftforum.net/topic/1114612-164-bspkrs-mods-armorstatushud-directionhud-statuseffecthud/.
+(Open:Spreadsheet) Blood Magic by WayofTime can be found at http://www.minecraftforum.net/topic/1899223-.
+(Open:Custom) BloodUtils by Wasliebob can be found at http://minecraft.curseforge.com/mc-mods/224425-blood-utils. The license is, .
+(Open:Spreadsheet) bspkrsCore by bspkrs can be found at http://www.minecraftforum.net/topic/1114612-.
+(Open:Spreadsheet) Buildcraft by CovertJaguar, SirSengir, Krapht, cpw, spacetoad can be found at http://www.mod-buildcraft.com/.
+(Open:Spreadsheet) Carpenter's Blocks by Mineshopper can be found at http://www.minecraftforum.net/topic/1790919-1516forge-carpenters-blocks-v199-slopes-stairs-and-more/.
+(Open:Custom) CharacterOnGUI by samhalo007 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163876-3500-downloads-character-on-gui-show-your. The license is, .
+(Open:Spreadsheet) CodeChickenCore by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) CodeChickenLib by Chickenbones can be found at https://github.com/Chicken-Bones/CodeChickenLib.
+(Open:Spreadsheet) CoFH Core by CoFH team can be found at http://teamcofh.com/.
+(Open:Custom) CreepersFire by Strikingwolf can be found at http://minecraft.curseforge.com/mc-mods/224543-creepers-fire. The license is, .
+(Open:Spreadsheet) Deadly World by FatherToast can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob.
+(Open:Spreadsheet) DirectionHUD by bspkrs can be found at http://www.minecraftforum.net/topic/1114612-.
+(Open:Spreadsheet) EnderIO by CrazyPants can be found at http://www.minecraftforum.net/topic/1937619-1624152-ender-io-how-many-pipes-in-one-block-v06-so-there/.
+(Open:Spreadsheet) EnderStorage by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) EnviroMine by TimbuckTato can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048-enviromine-a-little-bit-of-realism-1-7-10-new.
+(Open:Spreadsheet) Forestry by SirSengir can be found at http://forestry.sengir.net/wiki.new/doku.php.
+(Open:Spreadsheet) GenCreator by Vazkii can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288665-gencreator-create-worldgen-structures-inside-the.
+(Open:Spreadsheet) Gravestone Mod by NightKosh can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-9-2.
+(Notify:Custom) Hardcore Questing Mode by lorddusk, Newcastlegeek, Vswe can be found at http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/hardcorequestingmode.png, and can be found http://hqm.wikispaces.com/Permissions. The author has been notified, http://i.imgur.com/78fgoOb.png.
+(Open:Spreadsheet) Inventory Tweaks by Kobata can be found at http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/.
+(Open:Spreadsheet) LaunchGUI by TehNut can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2149411-launchgui-a-way-to-notify-your-players.
+(Open:Spreadsheet) Lore Expansion by CyanideX can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091967-lore-expansion-1-7-x.
+(Open:Spreadsheet) Mantle by mDiyo, progwml6 can be found at http://www.curse.com/mc-mods/minecraft/mantle.
+(Open:Spreadsheet) Mine & Blade Battlegear 2 by Mine_and_Blade_Admin can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291267-mine-blade-battlegear-2-bullseye-1-0-4-9.
+(Open:Spreadsheet) MineTweaker by StanH can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your.
+(Open:Spreadsheet) Mob Properties by FatherToast can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob.
+(Request:Custom) MobDrops by Strikingwolf can be found at None. The license is, . Permission has been obtained from the author, http://i.imgur.com/QSROwNA.png.
+(Open:Spreadsheet) Natural Absorption by FatherToast can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob.
+(Open:Spreadsheet) NEI Addons by bdew can be found at http://www.minecraftforum.net/topic/1803460-nei-addons-v1102-updated-120214/.
+(Open:Spreadsheet) NEI Plugins by mistaqur can be found at https://bitbucket.org/mistaqur/nei_plugins/wiki/Home.
+(Open:Spreadsheet) Not Enough Items by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) OpenBlocks by Mikeemoo can be found at http://www.openblocks.info/.
+(Open:Spreadsheet) OpenEye by Mikeemoo, boq can be found at http://openeye.openmods.info/download.
+(Open:Spreadsheet) OpenModsLib by Mikeemoo can be found at http://www.openblocks.info/.
+(Open:Custom) OresPlus by TheTorbinWren can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293726-oresplus-0-7-3-41b-minecraft-ore-resource. The license is, .
+(Open:Spreadsheet) Railcraft by CovertJaguar can be found at http://www.railcraft.info/.
+(Open:Spreadsheet) Random Things by lumien can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-0-remake.
+(Open:Custom) Sanguimancy by  Tombenpotter can be found at http://minecraft.curseforge.com/mc-mods/223722-sanguimancy. The license is, .
+(Open:Spreadsheet) Special Mobs by FatherToast can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob.
+(Open:Spreadsheet) StatusEffectHUD by bspkrs can be found at http://www.minecraftforum.net/topic/1114612-.
+(Open:Spreadsheet) Steve's Factory Manager by Vswe can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager.
+(Open:Spreadsheet) Technomancy by Theflogat can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-0-8-2-technomancy-an-expanded-bridge.
+(Open:Spreadsheet) The Spice of Life by squeek502 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety.
+(Open:Spreadsheet) Tinker's Construct by boni, mDiyo can be found at http://www.minecraftforum.net/topic/1659892-164tinkers-construct/.
+(Request:Custom) Vampire Money Custom Mod by Lumaceon & Strikingwolf can be found at None. The license is, . Permission has been obtained from the author, http://i.imgur.com/QSROwNA.png.
+(Open:Spreadsheet) Waila by ProfMobius can be found at http://www.minecraftforum.net/topic/1846244-172-waila-145/.
+(Open:Spreadsheet) Waila Harvestability by squeek502 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im.
+(Open:Custom) WaslieCore by Wasliebob can be found at http://minecraft.curseforge.com/mc-mods/224425-blood-utils. The license is, http://minecraft.curseforge.com/mc-mods/224425-blood-utils.
+(Open:Spreadsheet) What's This Pack by Robosphinx can be found at http://www.curse.com/mc-mods/minecraft/221658-wtp-whats-this-pack.
+(Notify:Custom) Witchery by Emoniph can be found at http://www.minecraftforum.net/topic/1992544-164-forge-witchery-0140/. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/witchery.png. The author has been notified, http://i.imgur.com/bk36NYq.png.

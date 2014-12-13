@@ -1,0 +1,16 @@
+{
+	"page": 3,
+	"title": "Drugstore Perfume",
+	"body": "That said, being a Vampire isn't all bad. You get all the perks that come with the stereotypical one. Over time, our hero will notice as he gains more and more powers. Becomes resistant to more and more things. By now, he's already noticed increased speed and the ability to suck blood. 
+
+However, not all is good. Eventually, our hero will start to burn in the day, and attract the attention of more and more hunters. Yes, the ones that were once his friends.
+
+He used to be one of them. An outsider, hunting those because they were different. After all, it's something we've all done. But as Atticus once said, 'You can't judge a person until you gotten in their skin and walked around in it.'",
+	"sound": "DrugstorePerfume",
+	"commands": {
+	"pickup": [
+	"effect @a 3 9999"
+	]
+	},
+	"autoplay": true
+}

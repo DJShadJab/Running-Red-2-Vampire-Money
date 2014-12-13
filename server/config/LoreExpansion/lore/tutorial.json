@@ -1,0 +1,22 @@
+{
+	"page": 1,
+	"title": "If We All Stop Needing",
+	"body": "I am here today to tell you a story.
+	
+	This story is not like most stories.
+	
+	Most stories tell the tale of someone creating a world from the lack of a world.
+	
+	This story is different. This story is about leaving the world.
+	
+	This story is about a human, a vampire, someone who has been bitten and is slowly changing.
+	
+	The end is near for this being. And this being only has one chance left to choose what to become.",
+	"sound": "tutorial",
+	"commands": {
+	"pickup": [
+	"effect @a 25 9999"
+	]
+	},
+	"autoplay": true
+}

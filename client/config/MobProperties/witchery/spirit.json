@@ -1,0 +1,18 @@
+{
+  "_name": "witchery.spirit",
+  "drops": [
+    {
+      "_comment": "makes drop iron",
+      "function": "if_recently_hit",
+      "functions": [
+        {
+          "_comment": "add iron drop",
+          "function": "add",
+          "id": "HardcoreQuesting:bags",
+          "count": 0.4
+        }
+      ]
+    }
+  ],
+  "stats": []
+}

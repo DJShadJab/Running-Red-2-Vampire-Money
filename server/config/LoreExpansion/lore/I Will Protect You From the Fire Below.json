@@ -1,0 +1,14 @@
+{
+	"page": 6,
+	"title": "Laying on the Floor",
+	"body": "There's a point in everyone's lives when they have to decide what keeps them going. You have to go rather far down to see what it is. For some, they may be disgusted, mortified that they went on this journey to find out who they are, only to hate who they are. Others will see the light, the thing about themselves that is keeping them alive. At this point, the only choice left is whether they want to live, or whether they want to die. Whether they want to keep on going, or let the rivers run red.
+
+With Blood.",
+	"sound": "FireBelow",
+	"commands": {
+	"pickup": [
+	"effect @a 5 9999"
+	]
+	},
+	"autoplay": true
+}

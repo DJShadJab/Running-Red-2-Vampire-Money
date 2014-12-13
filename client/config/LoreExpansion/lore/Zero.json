@@ -1,0 +1,18 @@
+{
+	"page": 2,
+	"title": "Call Me Zero",
+	"body": "What is vampirism? Vampirism is a disease. Vampirism is a curse. Once you're bitten, there's no coming back.
+
+Our hero has been bitten. That much is obvious, although hero may be a broad term. There is barely any hope left for our hero, as the hardest way is the only way to not become a vampire.
+
+And the current problem? Our hero is a half-vampire, meaning he's still being hunted by other vampires, and by the humans he once called his friends. Everyone is after him.
+
+But does it even matter, if he's already dead?",
+	"sound": "CallMeZero",
+	"commands": {
+	"pickup": [
+	"effect @a 1 9999"
+	]
+	},
+	"autoplay": true
+}
