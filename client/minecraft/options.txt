@@ -1,4 +1,4 @@
-resourcePacks:["RR2 Music Pack.zip"]
+resourcePacks:["RR2 Music Pack"]
 key_Goggles of Revealing:50
 key_invtweaks.key.sort:50
 key_railcraft.keybind.loco.mode:50
