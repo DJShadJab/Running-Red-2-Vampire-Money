@@ -9,6 +9,7 @@
           "_comment": "add iron drop",
           "function": "add",
           "id": "HardcoreQuesting:bags",
+          "damage": 4,
           "count": 0.4
         }
       ]
