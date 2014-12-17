@@ -56,7 +56,6 @@ client/minecraft/servers.dat
 client/minecraft/GameData.class
 client/minecraft/Thumbs.db
 client/patches
-client/instance.cfg
 client/order.json
 client/natives
 client/minecraft/coremods
@@ -66,4 +65,5 @@ client/minecraft/screenshots
 client/minecraft/texturepacks
 client/minecraft/icon.png
 client/minecraft/blueprints
+client/minecraft/usernamecache.json
 
