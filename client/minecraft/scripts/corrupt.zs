@@ -1,0 +1,1 @@
+<appliedenergistics2:item.ItemMultiMaterial:7>.displayName = "Corrupt Fluix Crystal";
