@@ -8,7 +8,7 @@ With Blood.",
 	"commands": {
 	"pickup": [
 	"effect @a 16 9999",
-	"scoreboard players add @a[score_vamp=3] vamp 1"
+	"scoreboard players add @a[score_vamp=3,score_vamp_min=3] vamp 1"
 	]
 	},
 	"autoplay": true

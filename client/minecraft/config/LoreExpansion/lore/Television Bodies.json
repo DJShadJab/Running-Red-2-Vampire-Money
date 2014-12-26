@@ -8,7 +8,7 @@ They're not. They're not all the same. Noone is the same. Sure, some Vampires ma
 	"commands": {
 	"pickup": [
 	"effect @a 5 9999",
-	"scoreboard players add @a[score_vamp=2] vamp 1"
+	"scoreboard players add @a[score_vamp=2,score_vamp_min=2] vamp 1"
 	]
 	},
 	"autoplay": true
