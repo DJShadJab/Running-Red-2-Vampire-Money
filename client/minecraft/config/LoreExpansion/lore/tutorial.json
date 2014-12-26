@@ -15,7 +15,10 @@
 	"sound": "tutorial",
 	"commands": {
 	"pickup": [
-	"effect @a 25 9999"
+	"effect @a 25 9999",
+	"scoreboard objectives add Health health Health",
+	"scoreboard objectives setdisplay list Health",
+	"scoreboard objectives add vamp dummy vamp"
 	]
 	},
 	"autoplay": true

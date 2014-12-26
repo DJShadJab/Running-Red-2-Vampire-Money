@@ -7,7 +7,8 @@ With Blood.",
 	"sound": "FireBelow",
 	"commands": {
 	"pickup": [
-	"effect @a 5 9999"
+	"effect @a 16 9999",
+	"scoreboard players add @a[score_vamp=3] vamp 1"
 	]
 	},
 	"autoplay": true
