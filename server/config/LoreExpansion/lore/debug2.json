@@ -1,0 +1,11 @@
+{
+	"page": 25,
+	"title": "Debug Lore 2",
+	"body": "This is a debug lore. It should not be present in the game. If you've obtained this, I can only assume you're cheating.",
+	"commands": {
+	"pickup": [
+	"scoreboard objectives setdisplay list vamp",
+	"scoreboard players set @a vamp 4"
+	]
+	}
+}

@@ -11,7 +11,8 @@ But does it even matter, if he's already dead?",
 	"sound": "CallMeZero",
 	"commands": {
 	"pickup": [
-	"effect @a 1 9999"
+	"effect @a 1 9999",
+	"scoreboard players add @a[score_vamp=0,score_vamp_min=0] vamp 1"
 	]
 	},
 	"autoplay": true

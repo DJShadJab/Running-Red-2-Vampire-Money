@@ -9,7 +9,8 @@ He used to be one of them. An outsider, hunting those because they were differen
 	"sound": "DrugstorePerfume",
 	"commands": {
 	"pickup": [
-	"effect @a 3 9999"
+	"effect @a 3 9999",
+	"scoreboard players add @a[score_vamp=1,score_vamp_min=1] vamp 1"
 	]
 	},
 	"autoplay": true
