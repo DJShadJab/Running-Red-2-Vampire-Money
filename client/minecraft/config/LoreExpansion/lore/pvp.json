@@ -1,6 +1,6 @@
 {
 	"page": 26,
-	"title": "Technical Lore",
+	"title": "UHC Technical Lore",
 	"body": "This is a fun bit of lore that will not appear in the world. What does it do? Well, it will essentially create a UHC environment for people to play in, as soon as a non-creative player picks it up. This will create three random teams of players, for up to 21 participants. Multiples of 3 work best, obviously.",
 	"commands": {
 	"pickup": [
