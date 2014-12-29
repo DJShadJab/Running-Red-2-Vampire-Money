@@ -81,6 +81,7 @@
             "posX" : 1,
             "posY" : -10,
             "color" : 11732466,
+            "link" : "http://forum.feed-the-beast.com/threads/1-7-10-running-red-2-vampire-money-v1-1-0-hardcore-magic-rpg.51957/",
             "alignment" : "bottom_left"
         }
 
@@ -94,6 +95,13 @@
             "posY" : 10,
             "color" : 11732466,
             "alignment" : "left_center"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "blur" : true,
+            "gradient" : true
         }
     }
 }
